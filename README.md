@@ -1,9 +1,5 @@
 # AI Operations Assistant 🤖
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.68%2B-green)
-
 A multi-agent AI system capable of planning, executing, and verifying tasks using GitHub and Weather APIs. This project demonstrates a **Planner-Executor-Verifier** architecture where LLM agents collaborate to solve user requests.
 
 ## 🏗 Architecture
@@ -105,3 +101,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ---
 
 **Disclaimer**: This is a demonstration project for agentic workflows. Ensure you manage your API keys securely.
+
