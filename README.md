@@ -76,7 +76,6 @@ python main.py
 ├── web_interface/      # FastAPI app and static assets
 ├── main.py             # CLI entry point
 ├── run_web.py          # Web entry point
-├── test_suite.py       # Automated testing script
 └── requirements.txt    # Project dependencies
 ```
 
@@ -94,6 +93,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ---
 
 **Disclaimer**: This is a demonstration project for agentic workflows. Ensure you manage your API keys securely.
+
 
 
 
