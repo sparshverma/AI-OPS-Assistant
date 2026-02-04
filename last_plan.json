@@ -1,0 +1,12 @@
+{
+  "steps": [
+    {
+      "tool_name": "github_tool",
+      "arguments": {
+        "owner": "cryptography",
+        "repo": "cryptography"
+      },
+      "step_description": "Searching for a repository related to cryptographic operations, including encryption and decryption, which might allow decrypting any encrypted file."
+    }
+  ]
+}
