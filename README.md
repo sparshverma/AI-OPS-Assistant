@@ -29,7 +29,7 @@ The system follows a three-stage pipeline:
 1.  **Clone the repository**
     ```bash
     git clone https://github.com/sparshverma/AI-OPS-Assistant.git
-    cd ai-operations-assistant
+    cd AI-OPS-Assistant
     ```
 
 2.  **Install Dependencies**
@@ -65,13 +65,6 @@ For quick testing or headless environments:
 python main.py
 ```
 
-### Running Tests
-The project includes a comprehensive test suite to verify tool connectivity and agent logic.
-
-```bash
-python test_suite.py
-```
-
 ---
 
 ## 📂 Project Structure
@@ -101,5 +94,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ---
 
 **Disclaimer**: This is a demonstration project for agentic workflows. Ensure you manage your API keys securely.
+
 
 
